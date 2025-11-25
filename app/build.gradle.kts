@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.directfarm.app"
+    namespace = "com.example.directfarm.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.directfarm.app"
+        applicationId = "com.example.directfarm.app"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
